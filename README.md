@@ -39,7 +39,7 @@ git push
 
 
 6.  создаем на сервере ветку gh-pages - кнопка *Branch*
-
+![gh-pages](./gh-pages.png)
 7. вводим текст _gh-pages_ и жмем кнопку ниже *Create branch: gh-page*
 
    
