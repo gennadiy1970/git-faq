@@ -24,8 +24,8 @@
 4. поработали с домашним заданием - сохраняем правки локально
 
 ```bash
-git commit -m "init"
 git add .
+git commit -m "init"
 ```
 
 
